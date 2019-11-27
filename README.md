@@ -4,6 +4,5 @@ Drought monitoring: Analysis of meteorological variables based on national weath
 
 This includes the following Projects: 
 
-- Project 1: General Programming 
-- Project 2: Analytics Report 
-- Project 3: Analytics Lab Report
+- Project 1: Analytics Report 
+- Project 2: Analytics Lab Report
